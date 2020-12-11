@@ -7,6 +7,8 @@ using ChattyAPI.Authorization.Contexts;
 using ChattyAPI.Authorization.Contracts;
 using ChattyAPI.Authorization.Managers;
 using ChattyAPI.Authorization.Models;
+using ChattyAPI.Chat.Contracts;
+using ChattyAPI.Chat.Managers;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -35,6 +37,7 @@ namespace ChattyAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddTransient<IChatManager, ChatManager>();
             services.AddTransient<IAuthManager, AuthManager>();
             services.AddControllers();
             services.AddSwaggerGen(c =>

@@ -17,7 +17,7 @@ namespace ChattyAPI.Base.Managers
             get
             {
                 IConfigurationSection cs = _config.GetSection("ConnectionStrings");
-                string s = cs["Cosial"];
+                string s = cs["Chatty"];
                 return new SqlConnection(s);
             }
         }
