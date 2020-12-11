@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u6TqL56GJ/1NJqueN/qPf0Xf2yjNPXKaiNowd+jf5S0Kca839owp5KlFGy3EgknlD0g9HQtzPq72YcdRm+D31w==",
+  "dgSpecHash": "wSnf+M7Vq4wffewi6IbLCgrHBdVwmijhcH7MttvpOIS3qb3NCfvBDrYOp8ujbjJwHL8SKtfP9fHwhboh5J3bSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\askop\\OneDrive\\Desktop\\Chatty\\ChattyAPI\\ChattyAPI.csproj",
+  "projectFilePath": "C:\\Users\\askop\\OneDrive\\Desktop\\Fullstack_Projects\\Chatty\\ChattyAPI\\ChattyAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\askop\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
     "C:\\Users\\askop\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.9\\microsoft.aspnetcore.authentication.jwtbearer.3.1.9.nupkg.sha512",

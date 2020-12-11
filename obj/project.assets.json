@@ -5920,11 +5920,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\askop\\OneDrive\\Desktop\\Chatty\\ChattyAPI\\ChattyAPI.csproj",
+      "projectUniqueName": "C:\\Users\\askop\\OneDrive\\Desktop\\Fullstack_Projects\\Chatty\\ChattyAPI\\ChattyAPI.csproj",
       "projectName": "ChattyAPI",
-      "projectPath": "C:\\Users\\askop\\OneDrive\\Desktop\\Chatty\\ChattyAPI\\ChattyAPI.csproj",
+      "projectPath": "C:\\Users\\askop\\OneDrive\\Desktop\\Fullstack_Projects\\Chatty\\ChattyAPI\\ChattyAPI.csproj",
       "packagesPath": "C:\\Users\\askop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\askop\\OneDrive\\Desktop\\Chatty\\ChattyAPI\\obj\\",
+      "outputPath": "C:\\Users\\askop\\OneDrive\\Desktop\\Fullstack_Projects\\Chatty\\ChattyAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\askop\\AppData\\Roaming\\NuGet\\NuGet.Config",
